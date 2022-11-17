@@ -1,4 +1,4 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=..\..\Teensy\SiliconHolders\SiliconHolders.PrjPcb
+ProjectPath=SiliconHolders\SiliconHolders.PrjPcb
