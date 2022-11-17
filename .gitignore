@@ -14,6 +14,7 @@
 SiliconHolders/__Previews/**
 
 SiliconHolders/History/*
+SiliconHolders/Project Output*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
